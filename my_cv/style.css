@@ -1,0 +1,14 @@
+* {
+    /* apply all the page */
+}
+
+.profile {
+    border-radius: 50%;
+    width: 150px;
+}
+
+.profile_table {
+    padding: 0;
+    border-spacing: 20px;
+    border-collapse: separate;
+}
